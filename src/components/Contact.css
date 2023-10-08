@@ -1,0 +1,137 @@
+.d1{
+    margin-left:50px;
+}
+.h11{
+    font-size:50px;
+    margin-left:39%;
+    font-weight: 300;
+    margin-top:30px;
+    font-weight: 400;
+}
+.p1{
+    margin-left:280px;
+    margin-top:10px;
+    font-size:18px;
+}
+.p2{
+    margin-left:650px;
+    margin-top:10px;
+    font-size:16px;
+   
+}
+.p3{
+    margin-left: 620px;
+    margin-top:-10px;
+    font-size:16px;
+  
+}
+.p4{
+    margin-left:555px;
+    margin-top:-10px;
+    font-size:16px;
+}
+.p5{
+    color:blue;
+}
+.p6{
+    margin-left:500px;
+    font-weight: 600;
+    margin-top:10px;
+
+}
+.box{
+    width:50%;
+    margin-left:500px;
+}
+.box1{
+    padding:15px;
+}
+#name{
+    border:none;
+ border-bottom:2px solid black;
+ width:50%;
+ padding:4px;
+ margin-bottom: 10px;
+ font-size:15px;
+}
+#email{
+    border:none;
+ border-bottom:2px solid black;
+ width:50%;
+ padding:4px;
+ margin-bottom: 10px;
+ font-size:15px;
+}
+#text{
+    font-size:15px;
+    width:50%;
+    padding:4px;
+    margin-top:10px;
+    border:1.5px solid black;
+}
+.btn2{
+    border:2px solid black;
+    border-radius:8px;
+    background-color:rgb(41, 40, 40);
+    color:white;
+    width:120px;
+    height:25px;
+    margin-left:120px;
+    margin-top:10px;
+    font-size:17px;
+}
+.btn2:hover{
+    background-color:rgb(155, 63, 241);
+}
+@media screen and (max-width: 768px) {
+    .d1 {
+      margin:auto;
+    }
+  
+    .h11 {
+      font-size: 24px;
+      margin-left: 10px;
+      margin-top: 10px;
+    }
+  
+    .p1{
+      margin-left: 5px;
+      margin-top: 5px;
+      font-size:12px;
+    }
+    .p2{
+        margin-left:2px ;
+        margin-top: 5px;
+        font-size:10px;
+    }
+    .p3{
+        margin-left:2px ;
+        margin-top: 5px;
+        font-size:10px;
+    }
+    .p4{
+        margin-left:2px ;
+        margin-top: 4px;
+        font-size:10px;
+    }
+   
+  
+    .p6 {
+      margin-left: 10px;
+      margin-top: 4px;
+      font-size:12px;
+    }
+  .box{
+    margin-left:30px;
+  }
+    #name, #email,#text  {
+      font-size: 8px;
+    }
+ 
+    .btn2 {
+      margin-left: 30px;
+      font-size:10px;
+      width:70px;
+    }
+  }
+  
